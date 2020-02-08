@@ -1,5 +1,5 @@
 _repo: Varastettu-sotilassalaisuus-Bruce-Partington-piirustukset_61237
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The adventure of the Bruce-Partington plans. Finnish
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '31668'
     url: http://www.gutenberg.org/2009/agents/31668
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61237#Varastettu-sotilassalaisuus-Bruce-Partington-piirustukset
 gutenberg_issued: '2020-01-25'
 gutenberg_type: Text
 identifiers:
