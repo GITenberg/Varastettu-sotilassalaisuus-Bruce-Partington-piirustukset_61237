@@ -1,0 +1,39 @@
+_repo: Varastettu-sotilassalaisuus-Bruce-Partington-piirustukset_61237
+_version: 0.0.1
+alternative_title: The adventure of the Bruce-Partington plans. Finnish
+contributor:
+  translator:
+    agent_name: Alpi, Eero
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '31668'
+    url: http://www.gutenberg.org/2009/agents/31668
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61237'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- GITenberg
+title: 'Varastettu sotilassalaisuus: Bruce-Partington piirustukset'
+url: http://www.gutenberg.org/ebooks/61237
